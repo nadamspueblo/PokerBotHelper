@@ -68,4 +68,4 @@ module.exports = function () {
 ```
 
 ## Disclaimer
-This software is guaranteed to have bugs that will possibly crash your code. Use at your own risk!
+I slapped this software together very quickly and it is guaranteed to have bugs that will possibly crash your code. Use at your own risk!
