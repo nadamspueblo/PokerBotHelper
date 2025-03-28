@@ -1,0 +1,11 @@
+{
+  "name": "pokerbot-helper",
+  "version": "1.0.2",
+  "description": "Utilities for use with the PokerBot project in Adams' AP CS Principles class",
+  "main": "./project/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Adams",
+  "license": "ISC"
+}
