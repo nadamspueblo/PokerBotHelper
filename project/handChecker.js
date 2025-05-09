@@ -8,7 +8,7 @@ function checkHand(game) {
     let highCard = hand[getHighCardIndex(hand)];
     let card = hasPair(hand);
     if (card) {
-      return {hand: "pair", highCard};
+      return {hand: "pair", highCard, set: card};
     }
     return { hand: "high", highCard };
   }
