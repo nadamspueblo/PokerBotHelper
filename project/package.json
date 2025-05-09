@@ -1,6 +1,6 @@
 {
   "name": "pokerbot-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utilities for use with the PokerBot project in Adams' AP CS Principles class",
   "main": "./project/index.js",
   "scripts": {
